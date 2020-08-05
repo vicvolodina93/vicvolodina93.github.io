@@ -4,7 +4,7 @@
 
 I am a Research Associate at the Alan Turing Institute at London. I work as part of the MUGM (Managing Uncertainty for Government Models) project. My current research is on developing innovative mathematical methods for quantifying uncertainty in government models.
 
-I have received my PhD in Mathematics from the University of Exeter, where I was supervised by [Dr Daniel Williamson](https://emps.exeter.ac.uk/mathematics/staff/dw356). My thesis titled ``Uncertainty Quantification for complex computer models with nonstationary output. Bayesian optimal design for iterative refocussing.'' 
+I have received my PhD in Mathematics from the University of Exeter, where I was supervised by [Dr Daniel Williamson](https://emps.exeter.ac.uk/mathematics/staff/dw356). My thesis titled [**Uncertainty Quantification for complex computer models with nonstationary output. Bayesian optimal design for iterative refocussing.**](https://ore.exeter.ac.uk/repository/handle/10871/121314)
 
 ### Publications
 
