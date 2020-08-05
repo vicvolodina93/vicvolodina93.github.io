@@ -12,3 +12,6 @@ I have received my PhD in Mathematics from the University of Exeter, where I was
 
 1. Victoria Volodina, Nikki Sonenberg, Edward Wheatcroft and Henry Wynn (2020). **Majorisation as a theory for uncertainty**. [arXiv:2007.10725.](https://arxiv.org/abs/2007.10725)
 2. Victoria Volodina, Edward Wheatcroft and Henry Wynn (2020). **Cheap, robust and low carbon: comparing district heating scenarios using stochastic ordering**. [arXiv:2003.04170](https://arxiv.org/abs/2003.04170)
+
+#### Journal articles
+1. Victoria Volodina and Daniel B. Williamson (2020). **Nonstationary Gaussian Process Emulators with Kernel Mixtures**. [SIAM/ASA Journal on Uncertainty Quantification](https://epubs.siam.org/doi/abs/10.1137/19M124438X)
