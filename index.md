@@ -15,3 +15,9 @@ I have received my PhD in Mathematics from the University of Exeter, where I was
 
 #### Journal articles
 1. Victoria Volodina and Daniel B. Williamson (2020). **Nonstationary Gaussian Process Emulators with Kernel Mixtures**. [SIAM/ASA Journal on Uncertainty Quantification](https://epubs.siam.org/doi/abs/10.1137/19M124438X)
+
+
+### Contact
+
+Email: <vvolodina@turing.ac.uk>
+
